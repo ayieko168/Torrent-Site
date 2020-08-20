@@ -77,6 +77,8 @@
  - https://www.fotyval.com/
  - https://www.fullmatchesandshows.com/premier-league/
  - http://www.hesgoal.com/
+ - https://sports24.club/
+ - https://skorlive.com/
 
 ### Subtitles
  - https://www.opensubtitles.org/en/search/subs
