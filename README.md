@@ -1,2 +1,2 @@
-# Torrent-Site
-A list of torrent link sites
+# Torrent-Sites
+A helpfull list of links to torrent sites and other usefull sites
